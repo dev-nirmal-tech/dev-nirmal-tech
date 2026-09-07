@@ -32,10 +32,8 @@ I am an engineering student and software builder focused on full-stack developme
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-nirmal-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nirmal's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nirmal-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=dev-nirmal-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
